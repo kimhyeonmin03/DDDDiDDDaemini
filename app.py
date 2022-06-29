@@ -1,4 +1,4 @@
-def Print(**args):
+def Print(*args):
     return args
 
 result = Print("hi")
